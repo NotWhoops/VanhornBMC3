@@ -6,4 +6,4 @@
 
  // created a api that adds 2 numbers and sends it back to the user
 
-// Person who Peer Reviewed your assignment
+// Peer review: Bryce Mack: Works perfectly. Adds 2 numbers without error.
