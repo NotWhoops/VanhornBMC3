@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VanhornBMC3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+493b59dc18422127a5969053e29bdafd893ef778")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eac888ab48ab164e8729f3316afb36e7bff947a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("VanhornBMC3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VanhornBMC3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
